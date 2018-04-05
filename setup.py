@@ -13,7 +13,7 @@ include_dir="/tmp/postal/include"
 library_dir="/tmp/postal/lib"
 
 
-VERSION = '1.1.7'
+VERSION = '1.1.7algo'
 
 
 def main():
